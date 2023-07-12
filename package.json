@@ -1,0 +1,21 @@
+{
+  "name": "data-verifier",
+  "version": "1.0.0",
+  "description": "Data-verifier is a simple and easy-to-use npm package for validating common user inputs. With data-verifier, you can quickly check the validity of email addresses, phone numbers, credit card numbers, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "validation",
+    "input",
+    "data",
+    "verification",
+    "email",
+    "phone",
+    "credit",
+    "card"
+  ],
+  "author": "Taha Moghrabi",
+  "license": "ISC"
+}
