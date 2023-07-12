@@ -17,5 +17,8 @@
     "card"
   ],
   "author": "Taha Moghrabi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "release-it": "^16.1.0"
+  }
 }
